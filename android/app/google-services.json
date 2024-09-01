@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859606899773",
+    "project_id": "kisan-app-15eba",
+    "storage_bucket": "kisan-app-15eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859606899773:android:5c8ba4a8816e371774de54",
+        "android_client_info": {
+          "package_name": "com.kisanseva.kisanseva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5tP9wK1Ek9h0LL-vI_QLxjm-yLuHPUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
